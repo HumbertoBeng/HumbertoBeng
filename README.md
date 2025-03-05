@@ -1,23 +1,22 @@
   # Hello, I'm Humberto Beng
 <a href="www.linkedin.com/in/carlos-humberto-quevedo-beng-151b7a272" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent graduate from a career in Intelligent Networks and Cybersecurity with a profound interest in technology and a dedication to solving complex problems.
+I am a recent graduate from a career in Intelligent Networks and Cybersecurity with an interest in technology and a dedication to solving complex problems.
 
 ## Objective
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to take my first steps into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/HumbertoBeng/Active-Directory-Project" target="_blank">Active Directory Project</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| | |
+| | |
+| | |
+| | |
+| | |
 
 ## Tools
 
@@ -29,7 +28,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
 ### SIEM
@@ -38,6 +36,15 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Certifications
+
+<div>
+  <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-RDRZIW28VN.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/-TryHackMe%20Advent%20of%20Cyber%202024-%232F74A3?&style=for-the-badge&logo=TryHackMe&logoColor=white" alt="Try Hack Me Advent of Cyber 2024" />
+  </a>
+</div>
+
+
+## Courses
 <div>
 <a href="https://www.credly.com/badges/f9e6388f-aa5f-4eb5-bb07-53be03319703/linked_in_profile" target="_blank"><img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" href="https://www.credly.com/badges/f9e6388f-aa5f-4eb5-bb07-53be03319703/linked_in_profile" /></a>
 </div>
