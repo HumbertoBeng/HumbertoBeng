@@ -12,7 +12,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/HumbertoBeng/Active-Directory-Project" target="_blank">Active Directory Project</a>|
-| | |
+| SOAR and EDR Implementation                   | <a href="https://github.com/HumbertoBeng/SOAR-EDR-Project.git">SOAR-EDR Project</a>|
 | | |
 | | |
 | | |
@@ -27,7 +27,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ### Endpoint
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LimaCharlie-2778C7?&style=for-the-badge&logo=LimaCharlie&logoColor=white" />
 </div>
 
 ### SIEM
@@ -35,11 +35,16 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
+### SOAR
+<div>
+   <img src="https://img.shields.io/badge/-Tines-8D75E6?&style=for-the-badge&logo=Tines&logoColor=white" />
+</div>
+
 ## Certifications
 
 <div>
   <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-RDRZIW28VN.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/-TryHackMe%20Advent%20of%20Cyber%202024-%232F74A3?&style=for-the-badge&logo=TryHackMe&logoColor=white" alt="Try Hack Me Advent of Cyber 2024" />
+    <img src="https://img.shields.io/badge/-TryHackMe%20Advent%20of%20Cyber%202024-%A3EA2A?&style=for-the-badge&logo=TryHackMe&logoColor=white" alt="Try Hack Me Advent of Cyber 2024" />
   </a>
 </div>
 
@@ -50,5 +55,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- SOAR EDR Project
+- <a href="https://github.com/HumbertoBeng/SOAR-EDR-Project.git">SOAR EDR Project</a>
 - <a href="https://github.com/HumbertoBeng/Active-Directory-Project" target="_blank">Active Directory Project</a>
