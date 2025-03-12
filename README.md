@@ -1,5 +1,5 @@
   # Hello, I'm Humberto Beng
-<a href="www.linkedin.com/in/carlos-humberto-quevedo-beng-151b7a272" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="www.linkedin.com/in/carlos-humberto-quevedo-beng-151b7a272"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 I am a recent graduate from a career in Intelligent Networks and Cybersecurity with an interest in technology and a dedication to solving complex problems.
 
