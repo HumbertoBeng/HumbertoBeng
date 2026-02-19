@@ -1,6 +1,6 @@
   # Hello, I'm Humberto Beng
 
-I am a recent graduate from a career in Intelligent Networks and Cybersecurity with an interest in technology and a dedication to solving complex problems.
+A graduate from a career in Intelligent Networks and Cybersecurity with an interest in technology and a dedication to solving complex problems.
 
 ## Objective
 
